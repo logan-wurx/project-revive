@@ -8,7 +8,8 @@ downloads; there are no game files here.
 - Windows 10 or 11, 64-bit
 - Your own **MX vs ATV Alive for PS3, US version (BLUS30707)**: a decrypted `.iso`, or the game's folder (the one with
   `PS3_GAME` inside)
-- About 10 GB free
+- About 20 GB free while setup runs. Setup builds the game with many jobs at once, and Windows may grow its page
+  file. The finished game uses about 7 GB.
 
 ## Install
 
